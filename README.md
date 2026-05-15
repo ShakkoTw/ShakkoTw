@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shakko</h1>
-<h3 align="center">Italian IT student, Founder and CEO of DoggoCorp.</h3>
-<h3 align="center"><a href="https://www.doggocorp.net">www.doggocorp.net</a></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakkotw&label=Profile%20views&color=0e75b6&style=flat" alt="shakkotw" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
